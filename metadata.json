@@ -1,0 +1,6 @@
+{
+  "name": "EduManage",
+  "description": "Comprehensive Student and Academic Management Portal for Students, Teachers, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
